@@ -399,7 +399,7 @@ var devNetConfig = genesisConfig{
 		common.HexToAddress("0xa108bdB2Aa47dC6666d4F6b66F3af1A560fD544E"),
 		common.HexToAddress("0x0fe749eCfAe35b17BfbBeE4dF3793aC74C10f859"),
 		common.HexToAddress("0x26396DB7EEc41fa698b12a7eafF6Ed5B36379d7e"),
-		common.HexToAddress("0x8e1ea6eaa09c3b40f4a51fcd056a031870a0549a"),
+		common.HexToAddress("0x227529ECCE689Fd671452F84dab719C188725B6D"),
 	},
 	SystemTreasury: map[common.Address]uint16{
 		common.HexToAddress("0x0000000000000000000000000000000000000000"): 10000,
@@ -420,7 +420,7 @@ var devNetConfig = genesisConfig{
 		common.HexToAddress("0xa108bdB2Aa47dC6666d4F6b66F3af1A560fD544E"): "0x3635c9adc5dea00000", // 1000 eth
 		common.HexToAddress("0x0fe749eCfAe35b17BfbBeE4dF3793aC74C10f859"): "0x3635c9adc5dea00000", // 1000 eth
 		common.HexToAddress("0x26396DB7EEc41fa698b12a7eafF6Ed5B36379d7e"): "0x3635c9adc5dea00000", // 1000 eth
-		common.HexToAddress("0x8e1ea6eaa09c3b40f4a51fcd056a031870a0549a"): "0x3635c9adc5dea00000", // 1000 eth
+		common.HexToAddress("0x227529ECCE689Fd671452F84dab719C188725B6D"): "0x3635c9adc5dea00000", // 1000 eth
 	},
 	// owner of the governance
 	VotingPeriod: 60, // 3 minutes
